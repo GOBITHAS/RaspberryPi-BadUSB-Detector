@@ -1,0 +1,36 @@
+RaspberryPi-BadUSB-Detector/
+│
+├── src/
+│   ├── badusb_detector.py
+│   ├── usb_monitor.py
+│   ├── gui_dashboard.py
+│   ├── cli_dashboard.py
+│   ├── alert_email.py
+│   └── utils.py
+│
+├── config/
+│   ├── usbguard.conf
+│   └── settings.json
+│
+├── docs/
+│   ├── Final_Report.pdf
+│   ├── System_Architecture.png
+│   ├── Test_Cases.xlsx
+│   └── README_Documentation.md
+│
+├── diagrams/
+│   ├── hardware_diagram.png
+│   ├── flowchart.png
+│   └── data_flow.png
+│
+├── screenshots/
+│   ├── gui_dashboard.png
+│   ├── cli_output.png
+│   └── email_alert.png
+│
+├── logs/
+│
+├── .gitignore
+├── LICENSE
+├── requirements.txt
+└── README.md
