@@ -23,5 +23,5 @@ Built using **Raspberry Pi 5**, **Python**, **USBGuard**, and **behavioral finge
 
 ---
 
-## 📂 Project Structure
+
 
