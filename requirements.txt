@@ -1,0 +1,7 @@
+pyudev
+tabulate
+colorama
+python-dotenv
+pyusb
+tk
+requests
